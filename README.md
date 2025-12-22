@@ -43,8 +43,6 @@ str nome = input "Digite seu nome: "
 
 ## Variáveis
 ```
-
-   
 int numero = 45
 str texto = “Ametista”
 bool status = true
