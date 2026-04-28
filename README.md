@@ -1,4 +1,4 @@
-![Ametista Logo](docs/logo/ametista-logo.png)
+![Ametista Logo](docs/assets/logo/ametista-logo.png)
 
 ![Static Badge](https://img.shields.io/badge/status-planning-yellow)
 ![Static Badge](https://img.shields.io/badge/type-hobby%20project-purple)
