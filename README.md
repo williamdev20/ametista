@@ -126,6 +126,7 @@ end
 ```
 
 ## Funções
+
 ### Função sem retorno
 ```
 defun helloWorld do
